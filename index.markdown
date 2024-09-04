@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: "Programming Problems"
 ---
+
+# Programming Problems
+
+## Data Types
+- [Problem 1](problems/problem1.md)
+- [Problem 2](problems/problem2.md)
+
+## Conditional Statements
+- [Problem 1](problems/conditional1.md)
+
