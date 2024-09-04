@@ -23,12 +23,12 @@ email: shake.hakobyan@rau.am
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of C programming problems for students to practice and learn.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shake-hakobyan-rau.github.io/c-practice-problems/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://c_problems.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  shake-hakobyan-rau
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
