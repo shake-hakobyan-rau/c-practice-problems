@@ -16,9 +16,9 @@ Welcome to the collection of C programming problems designed for students to pra
 
 Explore the problems by navigating through the sections below:
 
-- [Conditional Problems](/problems/conditional1)
-- [Problem 1](/problems/problem1)
-- [Problem 2](/problems/problem2)
+- [Conditional Problems](/_problems/conditional1)
+- [Problem 1](/_problems/problem1)
+- [Problem 2](/_problems/problem2)
 
 ## About
 
